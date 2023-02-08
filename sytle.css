@@ -1,0 +1,39 @@
+body{
+  background-color: white;
+  padding: 0px;
+  margin: 0px;
+}
+.blue{
+  background-image: white;
+  width: 50%;
+  height: 50%;
+  margin-left: 100px;
+  float: right;
+  margin-right: 200px;
+  margin-top: 100px;
+}
+.formulaire{
+  background-color: white;
+  width: 95%;
+  display: flex;
+  float: right;
+}
+.MODE{
+  display: flex;
+}
+.flex1{
+  display: flex;
+}
+.formulaire input{
+  border-radius: 15%;
+  border: 1px solid green;
+}
+.image{
+  width: 95%;
+  float: left;
+  margin-left: 5px;
+}
+.contaier.formulaire{
+  float: right;
+  margin-right: 5px;
+}
